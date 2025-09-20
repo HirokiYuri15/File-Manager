@@ -1,4 +1,4 @@
-#File Manager
+# File Manager
 
 This is a **pythonic** file manager that can keep your important files orgenized and in their intended folders 
 
